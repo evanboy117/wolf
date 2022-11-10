@@ -15,9 +15,11 @@
 }
 
 #bob {
-  border: 10px:
-    border-stye: dashed
-  border_color: red
+  border: 10px;
+  border-stye: dashed;
+  border-color: red;
+  height: 100px;
+  width: 500px;
 }
 
 
